@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Black-T(120sadra)
+- 👋 Hi, I’m Sadra
 - 👀 I’m interested in doing projects
 - 🌱 I’m currently learning anything i can learn
 - 💞️ I’m looking to collaborate on everyone in iran
