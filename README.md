@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sadra</h1>
 <h3 align="center">A passionate telegram_bot and web developer from Iran</h3>
 
-<img aligh"right" alt="Sadra" width="400" src="![dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7](https://github.com/user-attachments/assets/af3825a5-395f-4978-9114-eb8972e4bb99)
-"
+<img align="right" alt="Sadra" width="400"
+src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=120sadra&label=Profile%20views&color=0e75b6&style=flat" alt="120sadra" /> </p>
 
